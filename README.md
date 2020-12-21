@@ -7,8 +7,7 @@
 5. The next step is to start scrolling!
 6. Keep scrolling until you have found all relevant images to your query
 7. From there, we manually intervene with JavaScript.
-8. Switch back to the JavaScript console and copy + paste the code of 
-   url_listmaker.js into the console to simulate a right click on an image:
+8. Switch back to the JavaScript console and copy + paste the code of url_listmaker.js into the console to simulate a right click on an image
 9. Check the downloads and find urls.txt 
-10. Run the below python script in your python console 
-    python image_downloader.py --urls /Users/usearname/Downloads/ursl.txt --output /Users/username/images/urls
+10. Run image_downloader.py script in your python console: 
+python image_downloader.py --urls /Users/usearname/Downloads/ursl.txt --output /Users/username/images/urls
