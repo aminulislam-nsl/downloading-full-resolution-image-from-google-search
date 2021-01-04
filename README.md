@@ -10,4 +10,4 @@
 8. Switch back to the JavaScript console and copy + paste the code of url_listmaker.js into the console to simulate a right click on an image
 9. Check the downloads and find urls.txt 
 10. Run image_downloader.py script in your python console: 
-python image_downloader.py --urls /Users/usearname/Downloads/ursl.txt --output /Users/username/images/urls
+python image_downloader.py --urls /Users/usearname/Downloads/urls.txt --output /Users/username/images/urls
